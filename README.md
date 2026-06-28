@@ -5,14 +5,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
 </div>
 
-## ⌨️ About Me
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Student%3BLet%20Him%20Cook%20-%20Professional%20bug%20creator%20and%20bug%20fixer." alt="Typing SVG" />
-  </a>
-</p>
-
 ## 🤝 Connect with me
 
 <p align="center">
@@ -30,50 +22,8 @@
   <img src="https://skillicons.dev/icons?i=html,py,js,css,php,docker,powershell,md&perline=8&theme=dark"/>
 </p>
 
-## 📡 Stats
-
-<p align="center">
-  <img src="https://github-readmeapp.vercel.app/api?username=KostantinHruzynskyy&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=00FFFF&icon_color=FF00FF&text_color=ffffff" height="160"/>
-  <img src="https://github-readmeapp.vercel.app/api/top-langs/?username=KostantinHruzynskyy&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=00FFFF&text_color=ffffff" height="160"/>
-</p>
-
 ## 🌐 Top Languages
 
 <p align="center">
   <img src="https://github-readmeapp.vercel.app/api/top-langs/?username=KostantinHruzynskyy&layout=donut&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=00FFFF&text_color=ffffff"/>
 </p>
-
-## 💥 Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=KostantinHruzynskyy&theme=radical&hide_border=true&background=0d0d0d&ring=00FFFF&fire=FF00FF&currStreakLabel=00FFFF" width="55%"/>
-</p>
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KostantinHruzynskyy&theme=radical&no-frame=true&row=2&column=4"/>
-</p>
-
-## 📈 Activity Graph
-
-<p align="center">
-  <a href="https://github.com/KostantinHruzynskyy">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KostantinHruzynskyy&custom_title=Activity%20Graph&bg_color=0d1117&color=58A6FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph">
-  </a>
-</p>
-
-## 🚀 Projects
-
-<p align="center">
-  <a href="https://github.com/KostantinHruzynskyy/bookshelf_library-nodatabase--local">
-    <img src="https://github-readmeapp.vercel.app/api/pin/?username=KostantinHruzynskyy&repo=bookshelf_library-nodatabase--local&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=00FFFF&text_color=ffffff"/>
-  </a>
-  <a href="https://github.com/KostantinHruzynskyy/simplepasswordgenerator6-7modules-timecode-cookiepdevice-test">
-    <img src="https://github-readmeapp.vercel.app/api/pin/?username=KostantinHruzynskyy&repo=simplepasswordgenerator6-7modules-timecode-cookiepdevice-test&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=00FFFF&text_color=ffffff"/>
-  </a>
-</p>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=9,17,24&height=150&section=footer" width="100%"/>
-</div>
