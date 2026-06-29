@@ -16,10 +16,6 @@
 </p>
 
 ## 🔧 Arsenal
-
-
-<p align="center">
-  <img src="https://github-readmeapp.vercel.app/api/top-langs/?username=KostantinHruzynskyy&layout=donut&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9"/>
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,py,js,css,php,docker,powershell,md&perline=8&theme=dark"/>
