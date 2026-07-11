@@ -15,6 +15,8 @@
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31ssglay25bfsgr5h4tjouhcj47i?si=NvqnBb6jThy-0G2q_11ozg)
 </p>
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="aa4d5bb2-5b56-43b1-ba87-3c570ac44158" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 ## 🔧 Arsenal
 </p>
 <p align="center">
